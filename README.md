@@ -8,7 +8,7 @@ Neste projeto, foi requisitado a criação de uma SPA com a funcionalidade de um
 ## ⚡ Funcionalidades
 
 Principais funcionalidades da aplicação:
-- Blog de notícias com page inicial e pagina de contaúdo dinâmica.
+- Blog de notícias com página inicial e página de conteúdo dinâmica.
 
 ## 🚀 Tecnologias
 
